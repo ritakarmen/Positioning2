@@ -1,0 +1,19 @@
+/* Inserta tu CSS aqui */
+#cajaGrande{
+	height: 500px;
+	width: 500px;
+	background: #FF4500;
+}
+#cajaMediana{
+	height: 300px;
+	width: 300px;
+	background: #BA55D3;
+	position: relative;
+	left: 100px; 
+	top: 100px;
+}
+#cajaChica{
+	height: 150px;
+	width: 150px;
+	background: #FFD700;
+}

@@ -1,0 +1,20 @@
+		div{
+			height: 100px;
+			width: 100px;
+			margin: 5px;
+			padding: 5px;
+			border: 1px solid black;
+			background-color: #9E9696;
+			}
+			#caja2{ 
+	 			height: 130px;
+				width: 390px;
+			}
+	 		.caja {
+				display: inline-block;
+				border: 2px solid black;
+			}
+			.caja3 {
+				display: inline-block;
+			}
+

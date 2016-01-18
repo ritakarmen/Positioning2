@@ -1,0 +1,40 @@
+/*<style type="text/css">*/
+	img {
+		width:100px ;
+		height: 16px;
+		border:1px solid blue;
+	}
+	p{
+		width:1424px ;
+		height: 18px;
+		color: blue;
+		font-size: 14px;
+
+	}
+	h1{
+		width:1384px ;
+		height: 22px;
+		color: red;
+		font-family: Arial;
+		font-size: 20px;
+		font-weight: 500;
+	}
+	h3{
+		color:black;
+		font-size: 16px;
+	}
+
+	li{
+		width:1384px ;
+		height: 58.7188px;
+	}
+	ol {
+		width:1424px ;
+		height:136.156px;
+	}
+	body{
+		width:1424px ;
+		height: 340px;
+		border: 2px solid black;
+	}
+	</style>

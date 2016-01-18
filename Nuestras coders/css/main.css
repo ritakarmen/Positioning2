@@ -1,0 +1,9 @@
+/* Ingresa tu css aqui */
+#contenido {
+	width: 1000px;
+	margin: auto;
+}
+#menu {
+	padding: 10px;
+	display: inline;
+}
