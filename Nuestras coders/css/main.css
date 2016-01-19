@@ -4,6 +4,34 @@
 	margin: auto;
 }
 #menu {
-	padding: 10px;
-	display: inline;
+	width: 1000px;
+	height: 30px;
+	padding: 5px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	}
+#menu li{
+	list-style: none;
+	float: left;
+	padding: 5px;
+	border: 3px;
+	border-right: 2px solid black;
+	margin-right:10px;
+	margin-left: -10px;
+	margin-bottom:10px;
+	position: relative;
+	left: 250px;
+	right: 30px;
+} 
+#menu li:last-child{
+	border-right: none;
+}
+nav{
+	overflow: hidden; /* sirve para que los bordes del nav esten eduitativos*/
+}
+ul {
+	list-style-type: none; /*con esto quitamos decoracion azul*/
+}
+a{
+	text-decoration: none; /* con esto quitamos subrayado*/
 }

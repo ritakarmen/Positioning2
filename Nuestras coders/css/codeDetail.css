@@ -1,9 +1,103 @@
+#contenedor{
+	width: 1080px;
+	padding: 2px;
+	margin: 20px;
+	position: relative;
+	left: 10%;
+}
 #coders{
-color: blue;
+	background: red;
+}
+p {
+	text-align: center;
+	font-size: 24px;
+	border-top: 2px solid black;
+	padding: 5px;
+}
+#foto1 span{
+	position: absolute;
+	left: 160px;
+	bottom: 30px;
+	color: white;
+	}
+#foto2 span{
+	position: absolute;
+	left: 390px;
+	bottom: 30px;
+	color: white;
+	}
+#foto3 span{
+	position: absolute;
+	left: 640px;
+	bottom: 30px;
+	color: white;
+	}
+#foto4 span{
+	position: absolute;
+	left: 160px;
+	bottom: 30px;
+	color: white;
+	}
+#foto5 span{
+	position: absolute;
+	left: 390px;
+	bottom: 30px;
+	color: white;
+	}
+#foto6 span{
+	position: absolute;
+	left: 630px;
+	bottom: 30px;
+	color: white;
+	}
+#coders p{
+	padding :-10px;
+}
+
+#coders1{
+	width: 1000px;
+	margin: 0px;
+	position: relative;
+	left: 10%;
+	padding: 5px 80px;
+	overflow: auto; /*hace que los float dejen de hacerlo ordenandolos*/
 }
 #foto1{
+	/*position: relative;*/
+	left: 30px;
 	float: left;
+	padding: 10px;
 }
 #foto2{
+	left: 80px;
 	float: left;
+	padding: 10px;
+}
+#foto3{
+	left: 100px;
+	float: left;
+	padding: 10px;
+}
+#coders2{
+	width: 1000px;
+	margin: 0px;
+	position: relative;
+	left: 10%;
+	padding: 5px 80px;
+	overflow: auto; 
+}
+#foto4{
+	left: 100px;
+	float: left;
+	padding: 10px;
+}
+#foto5{
+	left: 100px;
+	float: left;
+	padding: 10px;
+}
+#foto6{
+	left: 100px;
+	float: left;
+	padding: 10px;
 }

@@ -1,0 +1,14 @@
+#menu{
+	width: 800px;
+	padding: 2px;
+	border: 1px solid black;
+	list-style: none;
+	float: left;
+}
+#menu ul li{
+	float: left;
+	padding: 5px;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	background: red;
+}
